@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+## Hi there 👋
 
-Maybe say a some things about yourself.
+I’m a reverse engineer focused on low-level systems and software internals.
 
-Or maybe what you plan to blog about.
+While most of my work remains private, I occasionally share proof-of-concepts (PoCs) designed to spark curiosity and inspire others to build upon them.
+Think of these contributions as starting points for a more complete usage case.
+
+If you find value in my work and use it as inspiration, I’d appreciate a credit.
